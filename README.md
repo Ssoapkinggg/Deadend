@@ -1,11 +1,11 @@
-<h2 align="center"><b>MENAGE: <a href="https://telegram.dog/mixiologist">GOKU</a></b></h2>
+<h2 align="center"><b>MENAGE: <a href="https://telegram.dog/Kicuh">AZEL</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/ramadhani892/Goku">
+   <a href="https://github.com/azel-kochoyy/Deadend">
    <br>
    <br>
 </p>
-<h1>RAMA BOT</h1>
+<h1>AZEL BOT</h1>
 <
 
 ## How to setup/deploy.
